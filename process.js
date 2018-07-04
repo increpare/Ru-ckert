@@ -131,7 +131,6 @@ function trimEmptyentries(ar){
  		splitPoint=halfway;
  	//}
 
-	var title = titleToPagename;
 
 	var poem_en=lines.slice(0,splitPoint)
 	var poem_de = lines.slice(splitPoint);
@@ -139,16 +138,18 @@ function trimEmptyentries(ar){
 	trimEmptyentries(poem_en)
 	trimEmptyentries(poem_de)
 
-	for(var j=0;j<poem_en.length;j++){
-		var errors = SpellChecker.checkSpelling(poem_en[j]);
-		if (errors.length>0){
-			console.log("SPELLCHECK ERROR " + poem_en[j])
+	//spellcheck code. too many false positives so just uncomment every now and then to check
+	// for(var j=0;j<poem_en.length;j++){
+	// 	var errors = SpellChecker.checkSpelling(poem_en[j]);
+	// 	if (errors.length>0){
+	// 		console.log("SPELLCHECK ERROR " + poem_en[j])
 
-			for( var k=0;k<errors.length;k++){
-				console.log("\t" + poem_en[j].substr(errors[k].start,errors[k].end));
-			}
-		}
-	}
+	// 		for( var k=0;k<errors.length;k++){
+	// 			console.log("\t" + poem_en[j].substr(errors[k].start,errors[k].end));
+	// 		}
+	// 	}
+	// }
+
 	replaceIndentation(poem_en)
 	replaceIndentation(poem_de)
 
