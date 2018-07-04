@@ -8,6 +8,7 @@ var getSlug = require('speakingurl');
 var colorConvert = require('color-convert');
 var exec = require('child_process').execSync
 var execAsync = require('child_process').exec
+var SpellChecker = require('spellchecker')
 
 
 exec("rm -rf output")
@@ -51,6 +52,8 @@ function generatePage(title,i){
 	var poemtable = "<table>";
 	var poem_de = poems_de[i];
 	var poem_en = poems_en[i];
+
+
 
 	for (var j=0;j<Math.min(poem_de.length,poem_en.length);j++){
 		if (j===0){
@@ -136,6 +139,16 @@ function trimEmptyentries(ar){
 	trimEmptyentries(poem_en)
 	trimEmptyentries(poem_de)
 
+	for(var j=0;j<poem_en.length;j++){
+		var errors = SpellChecker.checkSpelling(poem_en[j]);
+		if (errors.length>0){
+			console.log("SPELLCHECK ERROR " + poem_en[j])
+
+			for( var k=0;k<errors.length;k++){
+				console.log("\t" + poem_en[j].substr(errors[k].start,errors[k].end));
+			}
+		}
+	}
 	replaceIndentation(poem_en)
 	replaceIndentation(poem_de)
 
