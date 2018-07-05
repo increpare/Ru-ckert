@@ -57,9 +57,13 @@ function generatePage(title,i){
 
 	for (var j=0;j<Math.min(poem_de.length,poem_en.length);j++){
 		if (j===0){
-			poemtable+=`<tr><td class="poemtitle">${poem_de[j]}</td><td class="poemtitle">${poem_en[j]}</td></tr>\n`
+			poemtable+=`<tr><td class="poemtitle leftpage">${poem_de[j]}
+			</td><td class="poemtitle rightpage">${poem_en[j]}
+			</td></tr>\n`
 		} else {
-			poemtable+=`<tr><td>${poem_de[j]}</td><td>${poem_en[j]}</td></tr>\n`			
+			poemtable+=`<tr><td class="leftpage">${poem_de[j]}
+			</td><td class="rightpage">${poem_en[j]}
+			</td></tr>\n`			
 		}
 	}
 

@@ -19,6 +19,9 @@
 				white-space: nowrap;
 			}
 
+			.leftpage:hover .leftpage {
+				background-color: red;
+			}
         	tr:hover {
         		background-color: beige;
         		border:none;
@@ -26,9 +29,9 @@
 			tr:first-child{
 				border:10x solid gray;
 				padding-right: 0;
-				max-width: 800px;
+				max-width: 800px;    
 			}
-			td{
+			td:first-child{
 				padding-right:10px;
 				overflow:wrap;
 				max-width: 400px;
@@ -78,6 +81,6 @@
 		<div class="links">${links}</div>
 		<div class="footer">
 			Very approximate translations by <a href="mailto:analytic@gmail.com">analytic@gmail.com</a>.  Please let me know if you have any suggestions for improvements, or spot any errors :)
-		</div>
+		</div>		
 	</body>
 </html>
