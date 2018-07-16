@@ -121,6 +121,12 @@ function trimEmptyentries(ar){
 		}
 	}
 }
+
+function countWords(str) {
+  return str.trim().split(/\s+/).length;
+}
+
+var wc =0;
  for (var i=0;i<poems.length;i++){
  	var poem = poems[i].trim();
  	
@@ -143,6 +149,8 @@ function trimEmptyentries(ar){
 	trimEmptyentries(poem_de)
 
 	//spellcheck code. too many false positives so just uncomment every now and then to check
+
+
 	// for(var j=0;j<poem_en.length;j++){
 	// 	var errors = SpellChecker.checkSpelling(poem_en[j]);
 	// 	if (errors.length>0){
@@ -153,6 +161,13 @@ function trimEmptyentries(ar){
 	// 		}
 	// 	}
 	// }
+
+
+	//wordcount code
+
+	for (var j=0;j<poem_en.length;j++){
+		wc+=countWords(poem_en[j])
+	}
 
 	replaceIndentation(poem_en)
 	replaceIndentation(poem_de)
@@ -169,6 +184,7 @@ function trimEmptyentries(ar){
  	poems_de.push(poem_de); 	
  }
 
+	console.log("english wordcount : "+wc);
 
 for (var i=0;i<titles_en.length;i++) {
 	var t = titles_en[i];
@@ -186,6 +202,9 @@ function generateIndexPage(){
 	for (var i=0;i<titles_en.length;i++) {
 		var t = titles_en[i];
 		var slug = titleToPagename(t);
+		if (i===417){
+			links+='<h3>Appendix</h3>'
+		}
 		links+=`<li><a class="indexLink" title="${t}" href="${slug}">${t}</a>\n`;
 	}
 	links+="</ol>"
