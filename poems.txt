@@ -7,9 +7,9 @@ You, who filled my house with quiet happiness
 Don’t go away,
     and leave tears longing for joyous smiles,
     as a stroke of fate hitting the home
-joy lies, like glass, shattered in pieces.
+    joy lies, like glass, shattered in pieces.
 Perhaps I’d be better locking up such thoughts
-    und not wreath them with laurels,
+    and not wreath them with laurels,
     the lamenting songs of my brow.
 But when I see my love live on
     in strange mouths, the pompous show 
@@ -24,7 +24,7 @@ Ihr, denen, was mein Haus von stillem Glücke
 Nehmt eure Theilnahm’ itzt auch nicht zurücke
    Und laßt für Beifallslächeln Thränen hoffen,
    Beim Schicksalsschlag, der so das Haus getroffen,
-Daß alles Glas der Freude gieng in Stücke!
+    Daß alles Glas der Freude gieng in Stücke!
 Vielleicht verschlöß’ ich besser solche Klänge;
    Und wahrlich nicht mit Lorbeer zu umweben
    Denk’ ich die Stirn durch klagende Gesänge.
@@ -79,7 +79,7 @@ Es keimet, es reift in einer Nacht;
 Wake up, oh light of song,
 
 Wake up, oh light of song,
-Oh light of memory!
+oh light of memory!
 Around the sky
 the clouds of sadness are enough.  
     In my heart it should
@@ -90,12 +90,12 @@ when outside the sun shines.
 but candle, you cannot;
 for the eyes can refresh themselves
 in no other light.  
-    My heart hesitates, as long as it
+    My heart hesitates as long as it
 is without the sparkle of joy.
-Wake, o light of song,
-o light of holiness! 
+Wake, oh light of song,
+oh light of holiness! 
     Wake, lovely exuberance,
-o light of memory,
+oh light of memory,
 until I, with my final impulse,
 go to sleep in the twilight.
 
@@ -295,7 +295,7 @@ everything exuberant.
    Now that the disaster has happened,
 and the ornaments have floated away,
 no more does your treachery
-frighten me, o snake.
+frighten me, oh snake.
    And in songs it should state
 that something beautiful lived,
 which lives on every time
@@ -501,8 +501,8 @@ Muses, my companions,
 often before in sad situations
 you brought comfort to my home.
 Nothing like that happens now, 
-since the beautiful child
-was killed in the epidemic,
+since the beautiful children
+were killed in the epidemic,
 whose spark of death
 so easily could infect others.
 Many friends in the city
@@ -952,9 +952,9 @@ Farbenglut wie eure Bilder!
 
 ---------------------------------------------------
 
-You are the whole, o child, of what we mourn,
+You are the whole, oh child, of what we mourn,
 
-You are the whole, o child, of what we mourn,
+You are the whole, oh child, of what we mourn,
    thick with blossoms and covered with garlands;
    they’re far below now, where you lie stretched out,
    decaying, where your body has not survived.
@@ -1074,7 +1074,7 @@ of the heart. From them we grow
 in spring days
 a forest of flowers from lamentations of love:
 you have not lived for nothing.
-   O that what your soft pain gave to us
+   Oh that what your soft pain gave to us
 instead of carrying in our breasts,
 you will strange hearts touch,
 from human sympathy shuddering
@@ -1792,7 +1792,7 @@ it was already died in the previous one.
 come rightly as new years well-wishers;
 the bright bells begin to chime
 in the heavenly church of my bride.
-   And you, o you town musicians,
+   And you, oh you town musicians,
 go fiddle to all the other people!
 Where she now dances in the wedding line,
 your fiddles are not not needed.
@@ -1834,18 +1834,18 @@ Seit ich mein Liebstes verlor.
 
 ---------------------------------------------------
 
-And should I not curse the tradition
+And should I not curse the custom
 
-And should I not curse the tradition
-a feast to celebrate by the grave?
-We bake almond biscuits at home,
+And should I not curse the custom
+of the burial feast?
+We bake almond cake at home
 because our daughter is dead,
-and offer them, warm from the oven,
+and offer it, warm from the oven,
 to the woman preparing our son for burial.
 He will visit the place
 where his poor sister was put!
-And should I not curse the tradition
-a feast to celebrate by the grave?
+And should I not curse the custom
+of the burial feast?
 
 Und soll ich nicht der Sitte fluchen
 
@@ -2366,7 +2366,7 @@ the mother’s rice lily,
 and my rose. 
    So many hearts are now graves,
 that you, heavenly flower, veil -
-o little sister, o little daughter,
+oh little sister, oh little daughter,
 you unique and singular!
 
 Von den Brüdern jedem war ein
@@ -2562,11 +2562,11 @@ Eines nur, daß du mir bist entrissen.
 
 ---------------------------------------------------
 
-O bud, red in morning light,
+Oh bud, red in morning light,
 
-O bud, red in morning light, what did you do to deserve it?
+Oh bud, red in morning light, what did you do to deserve it?
 That in the early dew you were plucked?  What did you do to deserve it?
-O rose, that no painful thorns were given to,
+Oh rose, that no painful thorns were given to,
 That you the thorns of pains string, what did you do to deserve it?
 Defenceless naivety, not equipped to struggle with death;
 That the dark enemy stung you, what did you do to deserve it?
@@ -2574,7 +2574,7 @@ It shakes you freely on the branch in the spring air;
 Angry weight of the winter gales, what did you do to deserve it?
 And if the branch, because it carries the crown too bravely and proudly,
 has deserved this judgement, what have you done to deserve it?
-O poor branch, the joy is gone, you weren’t worthy of it,
+Oh poor branch, the joy is gone, you weren’t worthy of it,
 now you carry suffering, and ask not: what did you do to deserve it?
 It was a good granted to you, whose worth you didn’t know;
 One took it away, so you abstain! What did you do to deserve it?
@@ -2835,7 +2835,7 @@ with every light step
 your mother’s gaze along.
    Often if you so fly away,
 I call: I beg, I beg
-O do not fall, child! You surge
+Oh do not fall, child! You surge
 and shake! But you carried
 with every daring step
 the fear and me with you. 
@@ -3171,7 +3171,7 @@ Now I see well, why such a dark flame
 
 Now I see well, why such a dark flame
    you cast at me many times
-   o eyes, as if in a single glance
+   oh eyes, as if in a single glance
    to gather your whole might together.
 But I suspected not, because fog swams around me,
    woven from blind fate,
@@ -3348,7 +3348,7 @@ he said, when you wanted more: No! Enough!
 You cried, but you yielded -
 you knew, it couldn’t have been otherwise.
 Now you call me to follow your example:
-O Father, as I obeyed you, you should obey!
+Oh Father, as I obeyed you, you should obey!
 
 Ich war der Mann, dein Vater, du mein Kind;
 
@@ -3399,7 +3399,7 @@ Unterm Paradiesesbaume.
 I have, in my casual ears,
 
 I have, in my casual ears,
-O the loss is great,
+Oh the loss is great,
 well many words lost,
 that from the mouth floated.
     It flowed and gushed and rolled
@@ -3412,7 +3412,7 @@ worked without employment,
 and you spoke the whole time.
     Only sometimes did I hear it said,
 if I did something bad:
-O mother, to my questions
+Oh mother, to my questions
 you don't pay enough attention either.
     And had I attention to give
 to people other than you?
@@ -3422,6 +3422,7 @@ now you are mute to me.
 every smallest word
 that your mouth gave to me,
 in the sanctuary of memory.
+
 
 Ich hab' in läss'gen Ohren,
 
@@ -3558,7 +3559,7 @@ Nicht ehr als bis ich sah daß es entfloh.
 Hot tears to cry
 
 Hot tears to cry
-about you,  I didn't begrude myself them,
+about you,  I didn't begrudge myself them,
 because they could cool 
 on your cheeks.
     Now your cheek is cold,
@@ -3928,7 +3929,7 @@ to have hopeful courage in these days,
 but only to open my eyes.
     If once I don't cry,
 and propitious signs unify
-allow, o allow me to just deny them.
+allow, oh allow me to just deny them.
 I think would disturb them,
 I said, that they are shine beautifully.
     That so oft a star, well-disposed
@@ -4272,7 +4273,7 @@ I fear the most,
 and worry about beforehand:
 There the wife of the gardener,
 who knows all of my children;
-she see, with melted
+she sees, with soft
 heaps, me appear,
 when she then would ask:
 where are the two little ones?
@@ -4866,12 +4867,12 @@ you became when you were going!
 farewell, until our cheerful reunion, my Ernst!
     You have not smiled, you have laughed,
 with a sunny visage a day from the night you made.
-O how you, deadly earnest,
+Oh how you, deadly earnest,
 to laugh and to smile forgot!
 farewell, until our happy reunion, my Ernst!
     How is the mouth, that never was quiet, fell silent,
 the finale difficultly voiced word becomes quiet;
-o you that totally silent
+oh you that totally silent
 departed from us, in the night of life like stars going out,
 farewell, until our better reunion, my Ernst!
     Go there, where you the sister will greet with a smile,
@@ -5411,7 +5412,7 @@ you died rich in pain.
 in rooms rich in candles?
 You come in dream images,
 and remind me of the story:
-O Mother Genofeva,
+Oh Mother Genofeva,
 be not rich in pain!
 
 Du warst an Scherzen reich,
@@ -5721,7 +5722,7 @@ because my others who were thirsty for knowledge scooped
 the wisdom itself still from a bookshelf,
 and all better than her father knows,
 the his old schoolbag demolished.
-Ss far as is good, o friend! only one turn
+Ss far as is good, oh friend! only one turn
 I against your solace at the end:
 why I not wanting to begrudge heaven for it,
 the little ones also so could have reared?
@@ -6196,7 +6197,7 @@ but that is denied me.
 we a dead body have,
 while disturbing themselves as if at a feast,
 above it are the black ravens.
-    O that your beautiful body
+    Oh that your beautiful body
 your flown soul
 could bring with, that neither man nor woman
 would be permitted to think about you.
@@ -6467,19 +6468,19 @@ Let this be my only consolation:
 
 Let this be my only consolation:
 I want to be inconsolable.
-    O speak only of consolation to me!
+    Oh speak only of consolation to me!
 You are not consoling me at all;
 I must in my pain
 relinquish every consolation.
 Let this be my only consolation:
 I want to be inconsolable.
-    O speak only of consolation to me,
+    Oh speak only of consolation to me,
 the sorrow in me to weaken!
 Will it pass away? No,
 it will direct itself upwards.
 Let this be my only consolation:
 I want to be inconsolable.
-    O bring only consolation in here,
+    Oh bring only consolation in here,
 the night in me to light!
 It will on everything Light
 the darkness thicken.
@@ -6733,7 +6734,7 @@ with the Sorrows battle,
 as I nightly shudder,
 what I hourly bear,
 doesn't permit room for lament.
-    When, o heaven, I say,
+    When, oh heaven, I say,
 will you answer the question
 make the decision,
 that I no more will shudder,
@@ -8149,9 +8150,9 @@ Quickly cool-dropping of the heart's hot
 stones the glowing reduced tears!
 
 To me in eyes you smudge precious
-images, o cruel, soothing tears!
+images, oh cruel, soothing tears!
 
-O sprang out from the loss of children
+Oh sprang out from the loss of children
 to me once again come tears for the loss of children.
 
 O du traurig winternde Thräne 
@@ -8562,7 +8563,7 @@ now storm and wind have abated,
 and we are as in a harbour.
 
 What horror you laid on us,
-o Death, to punish us,
+oh Death, to punish us,
 and have you laid out for us
 where they in the storm sleep.
 
@@ -9153,7 +9154,7 @@ Now you have harm enough done
 
 Now you have harm enough done
 be but not so coarse,
-o spring, you so curt and rough
+oh spring, you so curt and rough
 the winter play every night!
 I request this year not from you
 the blossoms that you once broke;
@@ -10051,7 +10052,7 @@ in my heart there are other pains.
 
 The spring is also truly suffering,
 it outside is becoming born,
-I have but, o poor heart,
+I have but, oh poor heart,
 lost those I have born.
 
 Unruhig ist's in der Natur 
@@ -10770,7 +10771,7 @@ and want not joyful to be;
 oh Sun, if you mean good,
 so do not invite me!
 
-O Sun, do not invite me,
+Oh Sun, do not invite me,
 you mean well,
 alone you wake only the pain,
 that rests in my heart.
@@ -10959,10 +10960,11 @@ on you and rays to drizzle
 and spread aroma and scent,
 the crypt is a crypt.
 
-O golden red of morning,
+Oh golden red of morning,
 the dead remain dead;
 oh sweet spring air,
 the crypt remains a crypt.
+
 
 O goldnes Morgenroth 
 
@@ -11320,7 +11322,7 @@ Colourful buttercups!
   A veil springs from the corners of my eyes,
   it will this year with your brilliance darken.
 
-O little immortals!
+Oh little immortals!
   Two delicate little souls I see fluttering about you,
   it is my butterfly and my dragonfly.
 
@@ -11332,11 +11334,11 @@ Oh muskroot!
   Transformed for me were your stems
   into garish, rusty halberds of death.
 
-O balsam!
+Oh balsam!
   When your pods burst, like my
   two little children, so did their hearts break.
 
-O balsam!
+Oh balsam!
   I myself want to cry for my wounded Balsam,
   I don't want to search for another Balsam.
 
@@ -11356,7 +11358,7 @@ Oh bluebells!
   Flattering you is the bright sunlight,
   it opens for you the delight of your stems.
 
-O blooming bells!
+Oh blooming bells!
   You bore the jealousy with an evil look,
   you withered away to the sadness of your stems.
 
@@ -11424,7 +11426,7 @@ Bloom my Neuses!
   Cries the stream in the garden behind the house,
   the turtle dove mourns in the air of the forest bushes.
 
-O turtle dove!
+Oh turtle dove!
   You make the water, that you drink, dirty,
   and rest on no branch with green shade.
 
@@ -11568,7 +11570,7 @@ Oh swaying cradle!
   Your little arms I held fast, I was hesitant,
   afraid that a swing would throw them out.
 
-O rosebush!
+Oh rosebush!
   Through you I took carried the Rose on my shoulders,
   you carry now sorrowful pink blossoms all over.
 
@@ -11648,7 +11650,7 @@ Flowers of the liver,
   liverwort! I would now have nothing lovelier,
   as I would have here in the garden of their graves.
 
-O passion fruit!
+Oh passion fruit!
   You should shade their gravestone
   with delicate pictures of nails, crosses, and crowns.
 
@@ -11713,7 +11715,7 @@ Foliage of the cyprus!
   did I play you, that the worm could eat you?
 
 Blossom of blossoms!
-  I break you, o beautiful. From the embers
+  I break you, oh beautiful. From the embers
   of summer you were protected by a death in spring.
 
 Blossoms of blossoms!
@@ -13285,9 +13287,9 @@ Unter Blumen und Klee!
 
 ------
 
-O sculptress, nature, within small confines
+Oh sculptress, nature, within small confines
 
-O sculptress, nature, within small confines
+Oh sculptress, nature, within small confines
    is your fantastic territory contained;
    and as your breath winters or springs,
    it shimmers away and gathers new tendrils.
@@ -14731,7 +14733,7 @@ Wo sie meine Sehnsucht ruft.
 You have come alone,
 
 You have come alone,
-o wonder,
+oh wonder,
 where have you then left
 your brother?
 You came together
@@ -15113,9 +15115,9 @@ Doch immer die schönste Gunst.
 
 ------
 
-O picture of my boy
+Oh picture of my boy
 
-O picture of my boy,
+Oh picture of my boy,
 you are not exactly right,
 and yet so convincingly similar.
 Is that a contradiction?
@@ -15209,6 +15211,8 @@ In this way the picture now,
 as it is to me, not able
 to the viewer to speak,
 who only sees it, and cannot also hear it
+
+
 
 O Bild von meinem Knaben 
 
@@ -15628,7 +15632,7 @@ it became clear to us.
 From the locksmith it was put up,
 to carry out the dead;
 didn't realize, that the sick lay beside it.
-Now, that they close it again, o horror,
+Now, that they close it again, oh horror,
 one carries the second dead out.
 That is the unluckiest door in the house.
 Now let her be united with god
@@ -16314,7 +16318,7 @@ they are taking just a longer route
 
 Ah probably, they're just gone out,
 and will be back home now,
-o don't worry, the day is beautiful,
+oh don't worry, the day is beautiful,
 they will make their way to those cries.
 
 They have only gone ahead of us,
@@ -17663,7 +17667,7 @@ what we should do with you;
 we want to educate you,
 but now you are educating us.
 
-Oh childrin, you teach
+Oh children, you teach
 with pain the parents now,
 you draw us up, and will draw
 us up to you in the end.
@@ -17690,14 +17694,14 @@ lest the net of complications have been spun around you,
 when around you life throws life,
 and nothing can relieve this view, but death.
 
-As strangers, who should love eachother,
+As strangers, who should love each other,
 those hurting themselves, who want to be at ease,
-and so rarely two understand eachother
+and so rarely two understand each other
 go one way together.
 
 These arguments, with half-awake senses,
 happy ones, you have not been,
-and now you are where he will not decieve you,
+and now you are where he will not deceive you,
 to see untangled everything that confuses us.
 
 
@@ -17847,7 +17851,7 @@ You two,
 You two,
 I envy,
 that you feel
-no illess,
+no illness,
 that you early
 were allowed to part
 from life's
@@ -17866,7 +17870,7 @@ your bed with
 green silk,
 and with tears 
 made from dew.
-O how are you 
+Oh how are you 
 to be envied!
 Rest in peace
 my two!
@@ -17913,7 +17917,7 @@ and have them no more.
 Was it only a beautiful dream
 or was it waking?
 Everywhere the room was filled
-still with her rosey laughter.
+still with her rosy laughter.
 
 As she once floated before us,
 she floats down from us,
@@ -17967,7 +17971,7 @@ I wouldn't've sent the children out.
 Someone has carried them out,
 I can't speak against it.
 
-In ths weather, in this roaring,
+In this weather, in this roaring,
 I wouldn't've let the children out,
 I feared they'd get ill,
 that's now all in vain.
@@ -18093,7 +18097,7 @@ I had to let go of
 the rose, to adorn it.
 
 And since my rose was there
-planeted, the place to decorate,
+planted, the place to decorate,
 I don't shyly avoid it any more
 as I used to when out for a walk.
 
@@ -18149,13 +18153,13 @@ that it did't touch you,
 and lament you in every gentle breeze,
 that you in your graves can't feel it.
 
-I priase you by every pain in my breast,
+I praise you by every pain in my breast,
 that you are far away from it,
-and lamment you with every joy of spring,
+and lament you with every joy of spring,
 that you no more garlands can wear.
 
 And I reckon, full of sorrow and joy
-togethe rin these days,
+together in these days,
 so I don't know, whether I should
 praise or lament your fate.
 
@@ -18186,7 +18190,7 @@ the grave must be opened,
 and my two angels will go
 and hurry into my arms.
 
-Pateience! No miracle will happen,
+Patience! No miracle will happen,
 but the heavens will open,
 and you will see an angels
 from there rush towards you.
@@ -18319,7 +18323,7 @@ There on a golden stool
 with your little sister
 listening to an angel,
 learning happily,
-lead by the stems of lillies
+lead by the stems of lilies
 rather than the cane.
 
 
@@ -18373,9 +18377,9 @@ I saw there at the end
 of the bed (should I believe
 my eyes?) a pair of doves,
 that rock in harmony,
-that nestle into eachother,
+that nestle into each other,
 and their little heads with silence
-nod to eachother,
+nod to each other,
 just like once you did.
 I have to escape.
 Image of sibling love,
@@ -18499,7 +18503,7 @@ dreaming in mild dreams.
 
 But as to unfold in
 changing forms
-must the night's illumation;
+must the night's illumination;
 the same shimmering 
 can't retain your image.
 
@@ -18614,7 +18618,7 @@ When I you so small and cute
   more demanding and prissier.
   Foolishly wishing could I then,
   that there would be a spell,
-  without growning or aging
+  without growing or aging
   to preserve you ever so,
   as you were, small and lovely.
   And a Ghast, who overheard, wrote
@@ -18740,7 +18744,7 @@ As I sealed the letter
   and now blow out the light,
   and it went out without smoke,
   I saw you mirrored
-  before my facce,
+  before my face,
   oh I won't forget you!
   So had a higher breath,
   who proclaims you his,
@@ -18773,7 +18777,7 @@ You still bring me your roses,
 
 You still bring me your roses,
   you bring me, my dears, dear roses.
-  Where once smiling your dimpled chees
+  Where once smiling your dimpled cheeks
   you bring now me roses from your grave.
   Only in this way does spring come to me,
   on the grave of your again-blooming roses.
@@ -18799,7 +18803,7 @@ So bringt ihr mir noch immer eure Rosen,
 
 You know the legend
 
-Du kennest selbst die Sage 
+You know the legend
 of the much-mourned child,
 of who on these days
 we're reminded of.
@@ -18960,7 +18964,7 @@ morning bells,
 morning light.
 
 My little pair bring me
-a miraculous hord
+a miraculous hoard
 of golden fairy tales
 from there.
 The thread is
@@ -19087,7 +19091,7 @@ in heaven was on them
 an image painted.
 
 From heaven was on them
-a brilliace transfigured,
+a brilliance transfigured,
 my eyes war like bees
 nourished by the fragrance.
 
@@ -19103,7 +19107,7 @@ have touched me.
 
 Bright expressions
 have refreshed me;
-a light apepared to me
+a light appeared to me
 that never went out.
 
 
@@ -19225,7 +19229,7 @@ for tears and for a suffering heart,
 for such heavy jewels
 with these I was compensated,
 weighed for me by
-that the balace in the sky.
+that the balance in the sky.
 
 
 Hätt' ich um Gold und Edelstein 
@@ -19269,7 +19273,7 @@ made more beautiful back to me.
 I accepted it.
 In life they were
 the part of my life
-that gave spleandour to the rest.
+that gave splendour to the rest.
 Now we look up at them,
 now they have flown upwards,
 in this life like
@@ -19316,26 +19320,26 @@ Mit höhrer Harmonie.
 ---
 
 Like Jakob when Joseph's robe
+
+Like Jakob when Joseph's robe
 was brought to him,
 and the buried torment of his heart
 awoke.
 
 The father smelled the robe,
 there floated
-the son out from the fragrence, out of his grave, came,
+the son out from the fragrance, out of his grave, came,
 and lived.
-Do not steal the solace of my 
-torment!
+
+He really lives, he who was
+thoguht dead.
+Do not let the solace of my 
+torment be robbed!
 
 Never should the fragrance, that tells me my son lives,
 waft before me,
 On a king's throne
 I will find him.
-
-Nie soll der Duft, es lebt mein Sohn,
-Mir schwinden,
-Ich werd' an eines Königs Thron
-Ihn finden.
 
 
 
@@ -19401,7 +19405,7 @@ Das soll sie im Traum umscherzen.
 
 Everything earthly must have
 
-Alles Irdische muß haben 
+Everything earthly must have
 a reflection in heaven.
 When our boys play
 there laughs our little daughter.
@@ -19468,10 +19472,10 @@ with willing resignation;
 but now your soul disputes this,
 so you must mourn.
 The fighter boasted with effort,
-and beieved themselves talented, well-equipped!  
+and believed themselves talented, well-equipped!  
 but when they stepped out into the terror 
 of battle, he hesitates.
-What helpes, his thought to guide
+What helps, his thought to guide
 to what's in front, and they let sink
 that which they shouldn't let themselves think of.
 One must endure it!
@@ -19502,7 +19506,7 @@ the loss, heavy enough
 should the heart say,
 that it carries this as punishment?
 
-Is the worm grawning at buds of innocence
+Is the worm gnawing at buds of innocence
 in order to punish me?
 Or that you're resting in harbour,
 should you throw me into the storm?
@@ -19556,10 +19560,10 @@ else than where one looks for one's child.
 
 "Teach this to me, so that I can learn
 whether space divides us?
-Without knwoing that,
+Without knowing that,
 we are blind in this light.
 
-Praise in eteral light the Lord!
+Praise in eternal light the Lord!
 But to us in the dust allow to believe
 that neither time nor space can
 rob a mother of her child.
@@ -19671,8 +19675,8 @@ Now the sun wants to brightly rise
 Now the sun wants to brightly rise,
 as if no misfortune happened in the night.
 
-The misfortue happened to me alone,
-the sun shines on everythig.
+The misfortune happened to me alone,
+the sun shines on everything.
 
 You must fold the night inside of you,
 and immerse her in eternal light.
@@ -19720,7 +19724,7 @@ flowers dew
 that they drink
 between life and death.
 
-Light throuhg shadows
+Light through shadows
 plays, and shadows in light;
 both  sway
 between life and death.
@@ -19732,7 +19736,7 @@ between life and death.
 
 I see you 
 swaying,  bright shadows of dreams,
-myy lithe ones,
+my lithe ones,
 between life and death.
 
 Living they died,
@@ -19742,7 +19746,7 @@ between life and death.
 
 That they lived,
 that they died and lived,
-ket ne give thanks
+let me give thanks
 between life and death.
 
 
@@ -19825,7 +19829,7 @@ You only make your heart heavy
 
 You only make your heart heavy
 when you ponder over and over
-what we would have preffered to do 
+what we would have preferred to do 
 otherwise in order to still 
 have the living with us,
 those we must now bury.
@@ -19879,10 +19883,10 @@ will heal my wound
 Where the death carried my life,
 Carry without delay,
 carry these hours
-me in the funerl procession,
+me in the funeral procession,
 and lay me down in the earth!
 The spear, that struck my wound,
-will hear my woud.
+will hear my would.
 
 The spear that struck your wound
 will heal your wound.
@@ -20014,7 +20018,7 @@ Who wants another's joy
 
 Who wants another's joy
 to swap for one's own sorrow?
-Someon can hold a daughter 
+Someone can hold a daughter 
 to their breast, but I don't want to envy it.
 I want on pain and loss,
 as if they are my possessions, to feast;
@@ -20132,7 +20136,7 @@ because they come in hordes"
   - Calderon
 
 A single man, who defenceless
-stands and pleacefully acts,
+stands and peacefully acts,
 to attack him is dishonourable,
 but so attack Misfortunes.
 From their attacks
@@ -20180,7 +20184,7 @@ Feige sind die Unglücksfälle.
 Joy from sorrow,
 
 Joy from sorrow,
-sorrow from jow
+sorrow from joy
 I will make a necklace from it
 and wear it around my neck.  
 
@@ -20191,7 +20195,7 @@ a dark night follows.
 In this way did fate's jealousy
 turned my
 joy to sorrow,
-brough 
+brought 
 sorrow from my joy,
 as a necklace to decorate my neck.
 
@@ -20241,7 +20245,7 @@ Mach' ich mir zum Brustgeschmeid.
 If you are looking for the happy
 
 If you are looking for the happy
-mother, oh don't esarch for me!
+mother, oh don't search for me!
 She whose pain drives her to the ground,
 when my most beautiful happiness escaped.
 
@@ -20251,7 +20255,7 @@ who from pain is delighted
 since joy faded away.
 
 The delighted, the torn-asunder,
-if you seach for them, search for me!
+if you search for them, search for me!
 What once decorated me
 now decorates the sky.
 
@@ -20297,7 +20301,7 @@ So must I have lost you
 in order to win you.
 
 Often from me down here
-a wall has separted you;
+a wall has separated you;
 Now separating you and me
 are transparent sapphires - 
 So must I have lost you
@@ -20306,7 +20310,7 @@ in order to win you.
 I hear in one hour
 from your sweet mouth
 more words now, than I
-in yeaars heard, in four.
+in years heard, in four.
 So must I have lost you
 in order to win you.
 
@@ -20374,7 +20378,7 @@ I cry, for I have lost you"
 
 Ah this weak eye,
   through the gloomy blossoms of death
-  it can't penetate, and neither penetrates it to the happy
+  it can't penetrate, and neither penetrates it to the happy
   light of heaven up above.
   There you as long as you lived
   so brilliantly hovered before him,
@@ -20627,7 +20631,7 @@ You don't need to feed your suffering
 
 You don't need to feed your suffering,
 it can survive in your heart without your help.
-YOu don't need to fight against it,
+You don't need to fight against it,
 you will never overcome it.
 What should you do?  Let it be explained:
 You must transform the pain inside of you to joy.
@@ -20851,7 +20855,7 @@ Von hier entrücket dein Gebot?
 
 ----
 
-At the cemetary
+At the cemetery
 
 Your spirits are not here
 where the dead lay their dead.
@@ -20951,7 +20955,7 @@ then it would be enough for more heads to remain
 than death had robbed.
 
 Take each piece of love
-that a stolen head had caried,
+that a stolen head had carried,
 that was with you, and carry it yourself,
 and the death has robbed nothing from you.
 
@@ -20982,7 +20986,7 @@ than the branches could carry fruit?
 To more fully decorate the garland of hope for us,
 and so that the spring breeze can pluck blossoms,
 without causing harm 
-to those who will ripen into fruit.cht soll reifen.
+to those who will ripen into fruit.
 
 
 Der Baum ertrüge selbst nicht die Beschwerden 
@@ -21099,7 +21103,7 @@ Ab vom großen Ganzen hänget.
 You have enough to suffer,
 
 You have enough to suffer,
-that noone can save you from;
+that no one can save you from;
 if all your suffering was inflicted on others,
 you'd still suffer from being yourself.
 Where can you find time and power now
@@ -21357,10 +21361,10 @@ only flowers blooming.
 You were only smelling the air
 and were sucked away by it,
 living by robbing flowers,
-like pollin blown away.
+like pollen blown away.
 
 You don't need to wander around,
-to roam the eart,
+to roam the earth,
 you're on a direct course
 to heaven.
 
@@ -21697,9 +21701,9 @@ Ist ein Räthsel.
 
 ---
 
-Like the indian fig tree
+Like the Indian fig tree
 
-A fig, like that of the indian fig tree
+A fig, like that of the Indian fig tree
 in the ground sinks, under the branches,
 and it strikes out roots and prospers;
 So I lowered my youngest children
@@ -21709,7 +21713,7 @@ in the earth are preserved.
 Not the treetop do I sadly want to bury,
 rather, happily, the cut-short thoughts,
 and the image should give me solace,
-like fig of the indian fig tree
+like fig of the Indian fig tree
 in the ground sinks, under the branches,
 and the tops sway in the sunshine.
 
@@ -21776,7 +21780,7 @@ Mir blieb, was Gott gewollt.
 When your heart dwells on thoughts,
 
 When your heart dwells on thoughts,
-that struggle with eachother,
+that struggle with each other,
 that it could've gone differently
 than it, sadly, did,
 like, when something happens by chance,
@@ -21791,14 +21795,8 @@ in the eternal web,
 whose net spans the world,
 whose threads, fixed,
 according to a plan you don't know;
-all out from a middlepoint coming
+all emerging from a central point
 and all returning back to it.
-Deren Netz die Welt umspannt,
-Deren Fäden unverwandt,
-Nach dem Plan dir unbekannt;
-All aus einer Mitte streben
-Und in eine gehn zurück.
-
 
 
 Wenn dein Herz Gedanken nachhängt 
@@ -21824,9 +21822,9 @@ Und in eine gehn zurück.
 
 -----
 
-From mornin's silver bloom
+From morning's silver bloom
 
-From mornin's silver bloom
+From morning's silver bloom
 emerged the golden sun.
 Smiling as it looked down,
 the world looked up to it.
@@ -21885,7 +21883,7 @@ that your soul found.
 
 Therein is god's hand,
 that in these days of suffering
-paralysed with despaire
+paralysed with despair
 hasn't closed off your heart.
 
 
@@ -21956,12 +21954,12 @@ Tell me nothing of earthly valley of tears
 
 Tell me nothing of earthly valley of tears!
 Don't worry, and you will have no worries.
-Let me celebrate the eart, from which the sky
+Let me celebrate the earth, from which the sky
 daily pours joy!
 Should I complain, that two images of heave
 crept away from my morning dreams?
 I want to think rather, that they 
-still shie in my soul.
+still shine in my soul.
 Where they now, on another path, following
 a greater leader, or making their own way.
 But here down under I go confidently further,
@@ -21994,6 +21992,28 @@ Um mit Dank es einst zurück zu zahlen.
 
 ---
 
+
+In the sky I always
+
+In the sky I always
+liked to look at the star of love,
+and it was always 
+a messenger  from god.
+But I never saw him
+shining
+like I see him now
+there over the distant graves.
+It's as if it just
+coming into seed.
+With a look, like he
+seems to renounce piece,
+he calls to me: look up
+from the grave to me, and learn.
+If your dead shine 
+like the star above you;
+You are flowing, and they are at rest,
+like you would like to rest, in God.
+
 Am Himmel immer gern 
 
 Am Himmel immer gern
@@ -22016,6 +22036,32 @@ Du wallest, und sie ruhn,
 Wie du wirst ruhn, im Herrn.
 
 ---
+
+
+Of all difficult tests
+
+Of all difficult tests
+you are now relieved,
+all rough storms
+that rage around us here.
+Yes you're suited to
+(for us it was delayed)
+such a lot, certainly,
+that you yourself must praise it.
+Better than by your
+parents to be kept,
+you are up there with 
+your father's love.
+Ad you look peaceful
+but moved, from above
+in the heart of the father,
+he you're released from.
+For the trains, that I
+love, are destroyed,
+but not the love
+that you wove for me.
+
+
 
 Allen harten Proben 
 
@@ -22041,6 +22087,33 @@ Aber nicht die Liebe,
 Die dich mir verwoben.
 
 ---
+
+
+You want to shine, shine, oh Moon,
+
+You want to shine, shine, oh Moon,
+on the graves of mine, oh Moon!
+And if you want to cry dew
+on their crypts then cry, oh Moon!
+Were they not, they who are now quiet,
+as you are, without imperfection, oh Moon?
+Or have you a more beautiful pair
+seen? No, oh Moon!
+When you look at midnight
+into the little chamber, oh Moon,
+where the roses sleep,
+were they not fine, oh Moon?
+In the empty chamber now
+don't look in, oh Moon!
+Rather look for them outside,
+behind gravestones, oh Moon!
+But your face, like mine, cannot 
+enter their shrine, oh Moon!
+Since their light is faded,
+quieten yours also, oh Moon!
+But when yours waxes again,
+my pain will wax also, alone, Oh Moon!
+
 
 Willst du scheinen, schein', o Mond 
 
@@ -22070,45 +22143,68 @@ Wächst mein Schmerz allein, o Mond!
 ---
 
 
+You left before I'd've thought
+
+You left before I'd've thought,
+  Like a flower wilted in the course of the night.
+
+Like a flower overnight wilted.
+  On which in vain spring dew was sprinkled.
+
+The spring dew was sprinkled in vain,
+  As sprinkled over you were my warm tears.
+
+My warm tears were sprinkled over you,
+  and you didn't awake for me.
+
+And you didn't awake for me,
+  my flower, wilted overnight!
+
+
+
 Du bist vergangen, eh ich's gedacht 
 
 Du bist vergangen, eh ich's gedacht,
+  Wie eine Blume verblüht über Nacht.  
 
-Wie eine Blume verblüht über Nacht.  
-  Wie eine Blum' über Nacht verblüht,
+Wie eine Blum' über Nacht verblüht,
+  Auf die umsonst der Frühthau sprüht. 
 
-Auf die umsonst der Frühthau sprüht. 
-  Es sprüht umsonst der frühe Thau,
+Es sprüht umsonst der frühe Thau,
+  Wie auf dich meine Thränen lau. 
 
-Wie auf dich meine Thränen lau. 
-  Es sprüh'n meine Thränen lau auf dich,
-
-Und du bist nicht erwacht für mich. 
-  Und du bist nicht für mich erwacht,
-
-Meine Blume, verblüht über Nacht!
-
-
-
-Du bist vergangen, eh ich's gedacht 
-
-Du bist vergangen, eh ich's gedacht,
-
-Wie eine Blume verblüht über Nacht.  
-  Wie eine Blum' über Nacht verblüht,
-
-Auf die umsonst der Frühthau sprüht. 
-  Es sprüht umsonst der frühe Thau,
-
-Wie auf dich meine Thränen lau. 
-  Es sprüh'n meine Thränen lau auf dich,
-
-Und du bist nicht erwacht für mich. 
-  Und du bist nicht für mich erwacht,
-
-Meine Blume, verblüht über Nacht!
+Es sprüh'n meine Thränen lau auf dich,
+  Und du bist nicht erwacht für mich. 
+  
+Und du bist nicht für mich erwacht,
+  Meine Blume, verblüht über Nacht!
 
 ---
+
+My little daughter, a painting of you
+  - to Carl Barth
+
+My little daughter, a painting of you
+flooded your fresh colours
+over the the writing desk,
+until she slightly faded.
+
+Absorbing sunlight
+from the west window;
+to protect the image
+a darker corridor would be better.
+
+There I saw, from the dark corridor,
+and I thought about the child;
+at first glance it looked dead to me,
+or at least very sick.
+
+So I'd prefer in the sunlight
+to allow it to age,
+rather than see your beautiful face
+pale in the bloom of death.
+
+
 
 Mein Töchterlein, von dir gemalt 
 [An Carl Barth] 
@@ -22136,6 +22232,27 @@ Im Todtenflor erblassen.
 
 ---
 
+As the death of my children advances in years
+
+These days
+I want to lament,
+that you passed away
+around this time last year,
+your image so clear,
+so will still peace,
+beautiful to me,
+that I instead of despairing
+a sense of blessed well-being
+feel, that in truth
+doesn't come from here down below,
+but from the piece 
+there, where my pair
+now forever more
+made their home,
+separated from all suffering,
+amongst the blessed people.
+
+
 
 Als sich der Tod meiner Kinder bejährte 
 
@@ -22158,50 +22275,28 @@ Allem Weh geschieden,
 Bei der sel'gen Schaar.
 
 
-
-Als sich der Tod meiner Kinder bejährte 
-
-Grad in diesen Tagen,
-Da ich wollte klagen,
-Daß du hingeschieden
-Um die Zeit vorm Jahr,
-Blickt dein Bild so klar,
-So mit stillem Frieden
-Auf mich wunderbar,
-Daß ich statt Verzagen
-Selig ein Behagen
-Fühle, das fürwahr
-Nicht ist von hienieden,
-Sondern aus dem Frieden
-Dorther, wo mein Paar
-Nun auf immerdar
-Wohnung aufgeschlagen,
-Allem Weh geschieden,
-Bei der sel'gen Schaar.
-
-
 ---
 
-Entgegen geh' ich nun den trüben Tagen 
 
-Entgegen geh' ich nun den trüben Tagen,
-    Der traur'gen Zeit, die mir vom ganzen Jahr
-    Die unerfreulichste schon sonst auch war,
-    Eh' sie so herbe Wunden mir geschlagen.
+I now go to the murky days,
 
-Die Zeit, wo wir um Lichtabnahme klagen,
-    Und sehn die Erde Blumenschmuckes baar;
-    Dieselbe Zeit hat auch mein schönes Paar
-    Wie Sonnenschein und Blumen weggetragen.
+I now go to the murky days,
+  the sad time, to me of the whole year
+  that was already the most unpleasant
+  even before they so deeply wounded me.
 
-Und wenn in Mitte dieser Finsternisse
-    Sonst ein Gestirn des Trosts und Helles stand
-    Das Kinderfest der heiligen Weihnachten;
+The time, where we lament the absence of light,
+  the yearn for the earth to bear flowers;
+  this same time had also my beautiful pair
+  taken away, like sunshine or flowers.
 
-O wie ich nun auch dessen Segen misse,
-    Da ihr zu Grabe gienget, in der Hand
-    Die Gaben haltend, die vom Fest gebrachten!
+Once, in the middle of this darkness,
+  once stood a star, a consolation,
+  the children's Christmas fête;
 
+Oh how I now miss this blessing,
+  there you went into the grave, your hand
+  holding the gift brought from the fête!
 
 
 Entgegen geh' ich nun den trüben Tagen 
@@ -22227,26 +22322,26 @@ O wie ich nun auch dessen Segen misse,
 ---
 
 
-Im Sommer war es mir ein Trost, mit Blüten 
 
-Im Sommer war es mir ein Trost, mit Blüten
-    Die Gräber meiner Kinder zu umfloren;
-    Neu glaubt' ich mir die blühenden geboren,
-    Wenn sich die Knospen aufzubrechen mühten.
+In summer it was for me a consolation, with blossoms
 
-Nun aber bei des Winters strengem Wüthen
-    Die zarten Frühlingskinder sind erfroren,
-    Gieng mir der süßen Täuschung Spiel verloren,
-    Und Dichtung nur kann den Verlust vergüten.
+In summer it was for me a consolation, with blossoms
+  the graves of my children to decorate;
+  newly I believe myself born in the blooming,
+  when the buds open.
 
-Die Kinder meiner Wonne, meiner Schmerzen,
-    Sind nicht begraben in der harten Erde,
-    Sie sinds in meinem weichen lockern Herzen;
+Now but with the winter's strong wage
+  the fragile children of spring are frozen,
+  the sweet game of deception is lost,
+  and only writing can reimburse my loss.
 
-Das wird zu einem Rosenfeuerherde,
-    Aus welchem sprühn wie Flammen heil'ger Kerzen
-    Trostlieder, die ich ziehn statt Lilien werde.
+The children of my bill, my pain,
+  are not buried in the hard earth,
+  they are in my soft heart.
 
+It turns into a heart of roses,
+  out of which prays like the flames of holy candles
+  songs of solace, that I pluck instead of lilies.
 
 
 
@@ -22271,6 +22366,35 @@ Das wird zu einem Rosenfeuerherde,
     Trostlieder, die ich ziehn statt Lilien werde.
 
 ---
+
+One rose had been
+
+One rose had been
+plucked out,
+which I place on the grave
+joyously.
+
+That from the tears
+of my cheeks had been watered;
+and the crime had
+deeply messed me up.
+
+From the hand of crime
+I made an instrument
+of poetry in order to curse;
+or so I thought:
+
+But Death, the criminal,
+had 
+torn away from me
+my children.
+
+When I about this great
+injustice cry,
+this little one
+goes with by himself.
+
+
 
 
 Eine Rose hat man 
@@ -22300,55 +22424,24 @@ Frevel weine,
 Geht mit drein von selber
 Dieser kleine.
 
-
-
-
-Eine Rose hat man 
-
-Eine Rose hat man
-Ausgerissen,
-Die aufs Grab ich pflanzte
-Wohlbeflissen;  
-
-Die von meinen Thränen
-Wuchs begossen;
-Und mich hat der Frevel
-Tief verdrossen. 
-
-Auf die Frevelhände
-Anstalt macht' ich
-Dichterisch zu fluchen;
-Da bedacht' ich: 
-
-Auch der Tod, der Frevler,
-Hat nicht minder
-Mir hinweg gerissen
-Meine Kinder. 
-
-Wenn ich um den großen
-Frevel weine,
-Geht mit drein von selber
-Dieser kleine.
-
 ---
 
 
-Wer von eurem Ruhekissen 
+Which of your cushions
 
-Wer von eurem Ruhekissen
-Mir gerissen
-Hat den Rosenstrauch,
-Nicht that ers zum Leid beflissen,
-Dank ihm wissen
-Muß ichs gegen Brauch.  
+Which of your cushions
+has the rosebush
+torn,
+it didn't do it for suffering,
+I must thank him,
+though it's against custom.
 
-Vor den Rosendüften hätte
-Keine Stätte
-Funden Lilienhauch;
-Nun mir Rosen um die Wette
-Euer Bette
-Schmücken Lilien auch.
-
+In the scent of roses 
+nobody would
+find the breath of lilies;
+now for me the roses thronging
+your bed
+also are joined with lilies.
 
 
 
@@ -22371,22 +22464,21 @@ Schmücken Lilien auch.
 ---
 
 
-Unter des Himmels Blau 
+Under the blue of the sky,
 
-Unter des Himmels Blau,
-Unter des Maien Thau,
-Den Frühlingslüften lau,
-Als ihr schliefet im Freien,
-Dacht' ich, die Bettchen seien
-Wohlbestellet euch zweien.  
+Under the blue of the sky,
+under the dew of may,
+the warm spring breeze,
+when you sleep outside,
+I thought, the little beds
+fit you well together.
 
-Unter des Himmels Grau,
-Den Winterlüften rauh,
-Auf der erstorbnen Au,
-Nun ihr schlafet im Freien,
-Wird es über euch schneien,
-Nicht Blüten wie im Maien.
-
+Under the gray of the sky,
+the raw winter winds,
+on the fading meadows,
+now you sleep in peace,
+there will be snow over you,
+not flowers like in may.
 
 
 
@@ -22409,29 +22501,28 @@ Nicht Blüten wie im Maien.
 ---
 
 
-Wenn ich euer denke 
+When I think of yours,
 
-Wenn ich euer denke,
-Ists alsob sich senke
-Himmel in die Brust,
-Und im Erdgewühle
-Ists alsob ich fühle,
-Die ihr fühlet, Edens Lust.  
+When I think of yours,
+it's as if
+the sky in my breast sinks,
+and in the movements of the earth
+it's as if I feel,
+what you feel, the joy of eden.
 
-Soll ichs Wunder nennen?
-Nicht von euch zu trennen
-Weiß ich mein Gefühl;
-Nicht von euch zu scheiden,
-Fühlt' ich eure Leiden
-Mit bis zu des Todes Pfühl. 
+Should I call it a miracle?
+Not from you to separate
+Inseparable from you
+are my feelings;
+I felt your suffering
+until you went into the murky pools of depth.
 
-Soll ichs Wunder nennen?
-Eurer Wunden Brennen
-Hab' ich mitgefühlt;
-Nun so mag ich fühlen
-In des Herzens Kühlen
-Auch den Balsam, der euch kühlt.
-
+Should I name it a miracle?
+The burning of your miracles
+have I felt;
+Now I want to feel
+in my heart a cooling
+as from a soothing balsam.
 
 
 Wenn ich euer denke 
@@ -22460,46 +22551,44 @@ Auch den Balsam, der euch kühlt.
 ---
 
 
+My good, my good,
 
-Meine Guten Meine Guten,
+My good, my good,
+  my overs,
+  carried off
+  by the tides.
 
-Meine Guten Meine Guten,
-    Meine Lieben,
-    Auf den Fluten
-    Fortgetrieben,
+By the dark tides,
+  from the harbour
+  on the see,
+  in order to sleep
+  with the army
 
-Auf den dunkeln Fluten fort,
-    Nach dem Hafen
-    Aus dem Meere,
-    Um zu schlafen
-    Mit dem Heere,
+that already had found peace there!
+    let your 
+    star awake,
+    to help me steer
+    my boat
 
-Das schon fand die Ruhe dort!  Lasset euern
-    Stern erwachen,
-    Um zu steuern
-    Meinen Nachen
+towards your gentle brilliance!
+    As I travel,
+    see, I tremble,
+    through the reefs,
+    through the weave
 
-Euerm sanften Glanze nach!
-    Wie ich schiffe,
-    Seht, ich bebe,
-    Durchs Geriffe,
-    Durchs Gewebe
+of these thousand cliffs.
+    My loves,
+    my goods
+    carried out
+    on the tides
 
-Dieser Klippen tausendfach. Meine Lieben,
-    Meine Guten,
+from night to day!
+    Your images,
+    that float for me
+    ever more gently
+    over my life,
 
-Fortgetrieben
-    Auf den Fluten,
-
-Aus der Nacht hinaus zum Tag!
-    Eure Bilder,
-    Die mir schweben
-    Mild und milder
-    Ueberm Leben,
-
-Thuns daß ich noch leben mag.
-
-
+do it so that I can still enjoy life.
 
 
 Meine Guten Meine Guten,
@@ -22515,7 +22604,8 @@ Auf den dunkeln Fluten fort,
     Um zu schlafen
     Mit dem Heere,
 
-Das schon fand die Ruhe dort!  Lasset euern
+Das schon fand die Ruhe dort!  
+    Lasset euern
     Stern erwachen,
     Um zu steuern
     Meinen Nachen
@@ -22526,10 +22616,10 @@ Euerm sanften Glanze nach!
     Durchs Geriffe,
     Durchs Gewebe
 
-Dieser Klippen tausendfach. Meine Lieben,
+Dieser Klippen tausendfach. 
+    Meine Lieben,
     Meine Guten,
-
-Fortgetrieben
+    Fortgetrieben
     Auf den Fluten,
 
 Aus der Nacht hinaus zum Tag!
@@ -22543,39 +22633,37 @@ Thuns daß ich noch leben mag.
 ----
 
 
-Soll ich bringen Veilchen 
+Should I bring many small things,
 
-Soll ich bringen Veilchen,
-Die nur blühn ein Weilchen,
-Oder rothe Rosen,
-Ach die dauerlosen?
-Oder duft'ge Nelken,
-Die am Abend welken?
-Alle Blumen, alle,
-Sind in gleichem Falle,
-Kurzen Frühlings farb'ge Widerhalle.  
+Should I bring many small things,
+that only blow a little while
+or red roses,
+everlasting ones?
+Are beautiful carnations
+which wilt in the evening?
+All flowers, all
+are in the same trap,
+short-lived echoes of spring.
 
-Alle Blumen habe
-Ueber eurem Grabe
-Eine nach der andern
-Ich hin lassen wandern;
-Alle sind verglühet,
-Wie ihr seid verblühet.
-Alle Blumen, alle,
-Sind in gleichem Falle,
-Eures Lebens flücht'ge Widerhalle. 
+All flowers have
+over your grave
+one after the other
+been let go to wander;
+all have faded
+like you faded,
+all flowers, all,
+are in the same trap,
+fleeting echoes of your lives.
 
-Alle, alle Blumen
-An den Heiligthumen
-Will ich lassen dienen,
-Ob an ihren Mienen
-Mein Gemüth sich tröstet,
-Wenn sie Tod durchfröstet.
-Alle Blumen, alle,
-Sind in gleichem Falle,
-Meiner Liebe duft'ge Widerhalle.
-
-
+All, all flowers
+in the shrine
+I want to let them,
+whether their faces
+console my feelings,
+or if death freezes them through,
+all flowers, all,
+are in the same trap,
+to fragrantly echo my love.
 
 
 Soll ich bringen Veilchen 
@@ -22614,17 +22702,19 @@ Meiner Liebe duft'ge Widerhalle.
 ---
 
 
-Als Gestalten hab' ich euch besessen 
+When I had you as
 
-Als Gestalten hab' ich euch besessen.
-Jugendlich-belebte;
-Und ich kann den Traum noch nicht vergessen,
-Der so schnell entschwebte.  
+When I had you as
+animated children;
+and I can not forget the dream
+that was so quickly swept away.
 
-Himmlischen Beschlüssen muß mit Witzen
-Menschensinn sich fügen:
-Euch als schöne Bilder zu besitzen,
-Muß mir jetzt genügen.
+People have to cope with 
+heavenly decisions with jokes;
+I have come to terms with 
+having you only as beautiful images.
+
+
 
 
 Als Gestalten hab' ich euch besessen 
@@ -22641,6 +22731,34 @@ Muß mir jetzt genügen.
 
 
 ---
+
+A year has now faded away
+
+A year has now faded away
+since you faded away,
+and like two gloomy hours
+this anniversary is a reminder.
+
+And had you lived,
+my little children, through this year,
+so the anniversary would have been like
+a happy two hours. 
+
+Now, since I on the bier
+you had to be, my child,
+I think how few years
+people are given.
+
+Whether gloomier or brighter,
+they, just like hours,
+whether slower or faster,
+vanish without a trace.
+
+Once I wished for a long life,
+in order to see you bloom;
+now I wish to quickly pass away,
+since I saw you vanish.
+
 
 
 Ein Jahr ist nun geschwunden 
@@ -22670,63 +22788,34 @@ Um lang' dich blühn zu sehn;
 Nun mag es schnell entschweben,
 Da ich dich sah vergehn.
 
-
-
-Ein Jahr ist nun geschwunden 
-
-Ein Jahr ist nun geschwunden,
-Seit du geschieden bist,
-Und wie zwei trübe Stunden
-Gemahnt mich diese Frist.  
-
-Und hättest du gelebet,
-Mein Kindchen, dieses Jahr,
-So wär' die Frist entschwebet
-Ein helles Stundenpaar. 
-
-Nun, seit ich auf der Bahre
-Dich mußte sehn, mein Kind,
-Denk' ich, wie wenig Jahre
-Verliehn dem Menschen sind. 
-
-Ob trüber oder heller,
-Wie Stunden sind sie nur,
-Ob langsamer, ob schneller,
-Entschwunden ohne Spur. 
-
-Einst wünscht' ich langes Leben,
-Um lang' dich blühn zu sehn;
-Nun mag es schnell entschweben,
-Da ich dich sah vergehn.
-
 ---
 
+The children's birthday wish to their mother
+  - to the 17. November 1834
 
-Der Kinder Geburtstagswunsch an ihre Mutter 
-    - Zum 17. November 1834. 
+Today come the four,
+to wish you happiness
+on the day you were born.
+Last year there were six;
+now the smallest pair are missing. No!
+It comes
+flying
+from the heavens like a breath,
+and wishes happiness and blessings
+to you also on its part.
+"Also we, that you bore,
+are not lost to you,
+we are thankful as your child
+to have been born,
+born not to shine.
+nor to exist,
+the others for the time,
+we for eternity,
+they for the festival of life
+we for the quiet house,
+where we rest in peace,
+and bless everything that you do."
 
-Heut kommen deine Vier,
-Um Glück zu wünschen dir
-Zum Tag der dich gebar.
-Sechs waren es vorm Jahr;
-Nun fehlt das Pärchen. Nein!
-Es stellet mit sich ein,
-Kommt hergeflogen auch
-Vom Himmel wie ein Hauch,
-Und wünschet Glück und Heil
-Dir auch an seinem Theil.
-"Auch wir, geboren dir,
-Sind unverloren dir,
-Und danken als dein Kind,
-Daß wir geboren sind,
-Geboren nicht zum Schein.
-Zum wesenhaften Seyn,
-Die andern für die Zeit,
-Wir für die Ewigkeit,
-Sie für des Lebens Braus,
-Wir für das stille Haus,
-Wo wir in Frieden ruhn,
-Und segnen euer Thun."
 
 
 
@@ -22758,29 +22847,28 @@ Und segnen euer Thun."
 
 ---
 
+Seeing again
 
+Your children, here lost,
+you will see them again above;
+for what from you was born,
+you cannot lose.
 
-Wiedersehn 
+That you'll see them again some time
+you can probably understand,
+even if you don't understand
+how you will see them again.
 
-Deine Kinder, hier verloren,
-Wirst du droben wiedersehn;
-Denn was aus dir ist geboren,
-Kann dir nicht verloren gehn.  
+Not as children; or do you want
+them to stay eternally small?
+Not changed; or should
+they be be alienated to you?
 
-Daß du einst sie wiedersehest,
-Dieses kannst du wohl verstehn,
-Wenn du auch nicht das verstehest,
-Wie du sie wirst wiedersehn. 
+They competing forms
+when they are compared,
+as men and women are not there distinguished,
+neither are old man and child.
 
-Nicht als Kinder; oder wolltest
-Du sie ewig halten klein?
-Nicht gealtert; oder solltest
-Du entfremdet ihnen seyn? 
-
-Die hier streitenden Gestalten,
-Dort wo sie verglichen sind,
-Wo nicht Mann und Weib sich spalten,
-Trennt sich auch nicht Greis und Kind.
 
 
 
@@ -22808,7 +22896,46 @@ Trennt sich auch nicht Greis und Kind.
 
 ---
 
-Tausch 
+Exchange.
+
+The dead daughter's
+picture in my room,
+with fresh flowers from the forest
+fetched, I always decorate.
+
+Today I stepped, when I cam
+home with my benediction,
+towards the door of my   
+living daughter:
+
+Give me the flowers!
+Should I not give them to her?
+Flowers decorate beautiful the dead,
+and more beautifully still life.
+
+I see but the daughter
+herself, that I lost,
+more beautiful as in only in life
+born again to me!
+
+Not the image in the room would
+less beautifully laugh;
+less reproachful
+will be my conscience,
+
+like in the wild times of youth,
+there, of someone dead
+I solicited life
+through with such messengers.
+
+I want to strew flowers for
+the hour of ghosts
+on a grave, and strew them
+before their bedroom window.
+
+
+
+Tausch.
 
 Des verstorbnen Töchterchens
 Bild in meinem Zimmer,
@@ -22847,63 +22974,19 @@ Vor ein Kammerfenster.
 
 
 
-
-
-Tausch 
-
-Des verstorbnen Töchterchens
-Bild in meinem Zimmer,
-Frische Blumen aus dem Wald
-Holend, schmück' ichs immer.  
-
-Heute trat mir, als ich kam
-Heim mit meinem Segen,
-An der Thür mein lebendes
-Töchterchen entgegen: 
-
-Gib die Blumen, Vater, mir!
-Sollt' ich sie nicht geben?
-Blumen schmücken schön den Tod,
-Schöner noch das Leben. 
-
-Seh' ich doch das Töchterchen
-Selbst, das ich verloren,
-Schöner nur im lebenden
-Wieder mir geboren! 
-
-Nicht das Bild im Zimmer wird
-Minder freundlich lachen;
-Mindern Vorwurf wird mir auch
-Mein Gewissen machen, 
-
-Als in wilder Jugendzeit,
-Da, nach einer Todten,
-Ich um eine Lebende
-Warb mit solchen Boten. 
-
-Blumen streuen wollt' ich zur
-Stunde der Gespenster
-Auf ein Grab, und streute sie
-Vor ein Kammerfenster.
-
-
-
 ---
 
+To the little ones who stayed
 
-An die Kleingebliebenen 
+Aging is the lot of the youth,
+and small children will gradually grow big,
+then they free themselves from their parents,
+and you will no longer be able to weigh them in your lap.
 
-Heranzualtern ist der Jugend Looß,
-Und kleine Kinder wachsen mählich groß,
-Dann machen sie sich von den Eltern los,
-Und wiegen kannst du sie nicht mehr im Schooß.  
-
-Doch ihr, die mir geraubt ein frühes Looß,
-Bleibt immer klein, nie werdet ihr mir groß,
-Ihr reißt euch nie von meinem Herzen los,
-Und wiegen kann ich euch wie sonst im Schooß.
-
-
+But you, that robbed me early of this lot,
+remain always small, never will become big,
+you'll never tear yourself away from my hearth,
+and I will always be able to weigh you in my lap.
 
 
 
