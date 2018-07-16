@@ -166,7 +166,7 @@ var wc =0;
 	//wordcount code
 
 	for (var j=0;j<poem_en.length;j++){
-		wc+=countWords(poem_en[j])
+		// wc+=countWords(poem_en[j])
 	}
 
 	replaceIndentation(poem_en)
@@ -184,7 +184,7 @@ var wc =0;
  	poems_de.push(poem_de); 	
  }
 
-	console.log("english wordcount : "+wc);
+	// console.log("english wordcount : "+wc);
 
 for (var i=0;i<titles_en.length;i++) {
 	var t = titles_en[i];
