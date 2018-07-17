@@ -73,12 +73,12 @@ function generatePage(title,i){
 
 	if (i>0){
 		var link_title = titles_en[i-1];
-		previous = titleToPagename(link_title);
+		previous = titleToPagename(link_title,i-1);
 	}
 
 	if (i<titles_en.length-1){
 		var link_title = titles_en[i+1];
-		next = titleToPagename(link_title);
+		next = titleToPagename(link_title,i+1);
 	}
 
 	var links=`<a href="${previous}">&lt;previous</a> - <a href="index.html">index</a> - <a href="${next}">next&gt;</a>`;	
@@ -92,9 +92,25 @@ function generatePage(title,i){
 	return result;
 }
 
-function titleToPagename(title){
+var database={}
+function titleToPagename(title,index){
+	var key = title+index;
+	if (key in database){
+		return database[key];
+	}
 	var safeName = getSlug(title)
+	var count=1;
+	for (var i=0;i<index;i++){
+		var sn = getSlug(titles_en[i]);
+		if (sn===safeName){
+			count++;
+		}
+	}
+	if (count>1){
+		safeName+="_"+count;
+	}
 	var pageName = tag_to_urlsafe(safeName)+".html";
+	database[key]=pageName;
 	return pageName
 }
 
@@ -189,7 +205,7 @@ var wc =0;
 for (var i=0;i<titles_en.length;i++) {
 	var t = titles_en[i];
 	var page = generatePage(titles_en[i],i);
-	var relativepath = "output/"+titleToPagename(t);
+	var relativepath = "output/"+titleToPagename(t,i);
 	fs.writeFileSync(relativepath,page)/*, function(err) {
 	    if(err) return console.log("ER " +err);
 	    gzipFile( relativepath )
@@ -201,7 +217,7 @@ function generateIndexPage(){
 	var links = "<ol>";
 	for (var i=0;i<titles_en.length;i++) {
 		var t = titles_en[i];
-		var slug = titleToPagename(t);
+		var slug = titleToPagename(t,i);
 		if (i===417){
 			links+='<h3>Appendix</h3>'
 		}
